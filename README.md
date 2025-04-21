@@ -57,11 +57,13 @@ plot_importance() from XGBoost with a custom-colored plot (e.g., pink)
    * Balance
    * Age
    * Tenure
+     
+![Model Evaluation](https://github.com/Bandi-Lavanya/ML-Assignment/blob/main/images/Screenshot%20(228).png)
 
 ### **📊 Visualization**
 
 Using plot_importance to get the features which are considered the most significant in determining whether a customer churns.
-
+![Feature Importance](https://github.com/Bandi-Lavanya/ML-Assignment/blob/main/images/Screenshot%20(227).png)
 ### **Why this prediction matters?**
 
 * It Reduces the Marketing Cost: By predcting the churns and getting what to do next it improve the business.
